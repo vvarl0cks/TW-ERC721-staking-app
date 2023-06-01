@@ -1,11 +1,16 @@
-# ERC721 Staking App rocroc
-## Introduction
+# ERC721 Staking App 🖼
+## Deployed on Mumbai Testnet
 
 This example demonstrates a use of several thirdweb tools to create an NFT Staking application. In this example, users can stake their ERC721 NFTs and earn ERC20 tokens as a reward. It combines:
 
 - [NFT Drop contract](https://thirdweb.com/thirdweb.eth/DropERC721): To create a collection of NFTs that users can stake.
 - [Token contract](https://thirdweb.com/thirdweb.eth/TokenERC20): To create a token that users can earn as a reward for staking.
 - [NFT Staking contract](https://thirdweb.com/thirdweb.eth/NFTStake): To create a contract that users can stake their NFTs in, and earn tokens as a reward.
+
+## Demo https://erc721-staking.vercel.app 🌍
+NFT assets credits to https://www.instagram.com/egxha/ 🖼
+
+<a href="https://erc721-staking.vercel.app"><img src="https://iili.io/HriVuef.jpg" alt="HriVuef.jpg" border="0" /></a>
 
 ## Using This Template
 
