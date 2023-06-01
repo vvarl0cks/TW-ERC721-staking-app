@@ -1,5 +1,5 @@
 # ERC721 Staking App 🖼
-## Introduction
+## Deployed on Mumbai Testnet
 
 This example demonstrates a use of several thirdweb tools to create an NFT Staking application. In this example, users can stake their ERC721 NFTs and earn ERC20 tokens as a reward. It combines:
 
