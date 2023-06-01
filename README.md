@@ -7,6 +7,9 @@ This example demonstrates a use of several thirdweb tools to create an NFT Staki
 - [Token contract](https://thirdweb.com/thirdweb.eth/TokenERC20): To create a token that users can earn as a reward for staking.
 - [NFT Staking contract](https://thirdweb.com/thirdweb.eth/NFTStake): To create a contract that users can stake their NFTs in, and earn tokens as a reward.
 
+## Demo
+https://erc721-staking.vercel.app 🌍
+
 ## Using This Template
 
 Create a project using this example:
