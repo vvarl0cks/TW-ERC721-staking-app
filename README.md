@@ -40,3 +40,6 @@ export const stakingContractAddress =
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+
+## <p align="center">[🤖 Warlocks!](http://warlocks.netlify.app)
